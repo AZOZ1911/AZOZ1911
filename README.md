@@ -44,10 +44,4 @@ My approach is hands-on and production-oriented, not tutorial-based.
 ## Notes
 
 All projects in this GitHub are based on real operational scenarios and practical use cases.
-## Active Work
-
-Currently building hands-on automation labs focused on:
-- Network reachability monitoring
-- Email-based alerting
-- Log parsing and incident analysis
 
